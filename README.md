@@ -3,7 +3,7 @@
 <!--
 **hapl/hapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a data scientist with a background in computer science. I completed my training in Lighthouse Labs. I am looking for a new position in data science.
+I'm a data scientist with a background in computer science. I completed my training in Lighthouse Labs and I am looking for a new position in data science.
 
 - 🔭 I’m currently working on building my portfolio.
 - 🌱 I’m currently learning time series and PowerBI.
