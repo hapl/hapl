@@ -6,7 +6,7 @@
 I'm a data scientist with a background in computer science. I completed my training in Lighthouse Labs and I am looking for a new position in data science.
 
 - 🔭 I’m currently working on building my portfolio.
-- 🌱 I’m currently learning time series and PowerBI.
+- 🌱 I’m currently learning NLP and LLM.
 - 👯 I’m looking to collaborate on new projects for stretching and practice.
 - 🤔 I’m looking for help starting a new Data Science position.
 - 💬 Open to talking and making new connections.
