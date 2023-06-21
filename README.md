@@ -34,7 +34,8 @@ I'm a data scientist with a background in computer science. I completed my train
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-perdomo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.perdomo@gmail.com)
 
-📊 Stats
+<!--📊 Stats
 ---
 
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hapl&show_icons=true&bg_color=00000000&hide=stars,prs,contribs)
+-->
