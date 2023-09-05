@@ -8,7 +8,7 @@ I'm a data scientist with a background in computer science. I completed my train
 - 🔭 I’m currently working on building my portfolio.
 - 🌱 I’m currently learning NLP and LLM.
 - 👯 I’m looking to collaborate on new projects for stretching and practice.
-- 🤔 I’m looking for help starting a new Data Science position.
+- 🤔 I’m looking for help starting a new Data Science/Data Analyst/Data Engineer position.
 - 💬 Open to talking and making new connections.
 - 😄 Pronouns: He/Him
 
